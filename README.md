@@ -1,6 +1,6 @@
 # reticulateHelper
 
-Helper functions that make using Anaconda environments in reticulate *actually* work.
+Helper functions that make using Anaconda environments in `reticulate` *actually* work.
 
 <hr>
 
